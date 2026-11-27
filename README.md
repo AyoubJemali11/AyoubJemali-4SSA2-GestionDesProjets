@@ -4,7 +4,7 @@ Ce dépôt contient un projet **Spring Boot** (backend) et **Angular** (frontend
 Il sert de support pratique pour mettre en œuvre un pipeline Jenkins basé sur l'intégration continue (CI) et la livraison continue (CD).
 
 L'objectif principal est de permettre aux étudiants de :
-- Configurer un pipeline **SCM** (Source Code Management) avec Jenkinsss
+- Configurer un pipeline **SCM** (Source Code Management) avec Jenkins
 - Automatiser le **build** du projet (Maven + npm)
 - Exécuter des **tests unitaires** (si disponibles)
 - Générer un **livrable** déployablee
